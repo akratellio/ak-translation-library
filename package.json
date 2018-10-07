@@ -1,14 +1,17 @@
 {
-  "name": "ak-translation-lib",
+  "name": "ak-translation-library",
   "version": "0.0.2",
   "description": "A simple translation system",
   "keywords" :["Angular","Library"],
   "license" : "SEE LICENSE IN LICENSE",
+  "author": {
+    "name": "Ronald Kiefer <akratellio>",
+    "url": "http://akratellio.de"
+  },
   "repository": {
     "type" : "git",
     "url" : "https://github.com/akratellio/ak-translation-lib"
   },
-  "homepage" :"http://akratellio.de",
   "peerDependencies": {
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
     "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
