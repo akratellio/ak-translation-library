@@ -1,6 +1,6 @@
 {
   "name": "ak-translation-library",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "A simple translation system",
   "keywords" :["Angular","Library", "i18n","internationalization", "akratellio", "pluralization"],
   "license" : "SEE LICENSE IN LICENSE",

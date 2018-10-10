@@ -4,7 +4,7 @@ Ak-translation library is a small translation system, based on json.
 
 ## setup
 ```
-npm install ak-translation-lib
+npm install ak-translation-library
 ```
 
 in your root module (app.module.ts)
