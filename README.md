@@ -9,7 +9,7 @@ npm install ak-translation-library
 
 in your root module (app.module.ts)
 ```javascript
-import { AkTranslationModule } from 'ak-translation-lib';
+import { AkTranslationModule } from 'ak-translation-library';
 
 @NgModule({
   ...
