@@ -1,6 +1,6 @@
-# Ak-Translation
+# Ak-Translation Library
 
-Ak-translation is small translation system, based on json.
+Ak-translation library is a small translation system, based on json.
 
 ## setup
 ```
@@ -33,7 +33,7 @@ constructor(public akTranslationService: AkTranslationService) {
 ..
 ```
 
-A typically translation file could be looking like this:
+A typically translation file:
 
 ```javascript
 {
